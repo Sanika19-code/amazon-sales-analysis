@@ -12,6 +12,8 @@ Interactive Power BI dashboard analyzing Amazon sales performance across product
 
  
 > ![Dashboard Preview](amazon sales.png)
+> <img width="1296" height="730" alt="amazon sales" src="https://github.com/user-attachments/assets/0984358b-48e9-4c20-a599-3f06ecfb37b5" />
+
 
 ## 📈 Key Insights
 
